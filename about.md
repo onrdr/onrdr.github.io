@@ -10,8 +10,8 @@ ASP.Net Core MVC, .Net Core, Object-Oriented Programming Concepts, SOLID
 Principles, Design Patterns, Data Structures and Algorithms.
 
 ### Education
-I have both Bachelor of Science and Master of Science in Teaching Physics degrees from Bogazici University. 
-I also had the chance to take some computer engineering and data structures courses in university. 
+* I have both Bachelor of Science and Master of Science in Teaching Physics degrees from Bogazici University. 
+* I also had the chance to take some computer engineering and data structures courses in university. 
 
 ### Bootcamps and Certificates
 * After working as a student coach for many years. I decided to shift my career to tech. 
