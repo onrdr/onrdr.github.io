@@ -13,7 +13,7 @@ Principles, Design Patterns, Data Structures and Algorithms.
 I have both Bachelor of Science and Master of Science in Teaching Physics degrees from Bogazici University. 
 I also had the chance to take some computer engineering and data structures courses in university. 
 
-### Experiences
+### Bootcamps and Certificates
 * After working as a student coach for many years. I decided to shift my career to tech. 
 * I started to learn C# in March 2022. After learning the basic concepts of C# Language and .Net Framework, I decided to start a bootcamp.
 * I got accepted to BT Academy's Microsoft Certified Solution Dev.-MCSD / AZ 204 program in June. After 220 hours of education and 5 months, 
