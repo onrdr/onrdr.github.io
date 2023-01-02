@@ -3,7 +3,7 @@ layout: post
 title: Education
 subtitle: Education Summary
 categories: Bachelor and Master
-tags: [Boun, Education, Bachelor, Master]
+tags: [Bogazici, Bachelor, Master]
 ---
 
 ## University Education 
