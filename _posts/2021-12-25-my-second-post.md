@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+title: Education
+subtitle: Education Summary
+categories: Bachelor and Master
+tags: [Boun, Education, Bachelor, Master]
 ---
 
-## Introduction to Python
+## University Education
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+* Bachelor of Science in Teaching Physics.
+* Master of Science in Teaching Physics 
 
 
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+![diploma](/assets/images/banners/diploma.jpg)
