@@ -22,8 +22,8 @@ Principles, Design Patterns, Data Structures and Algorithms.
   I graduated from the program with a great fundamental of understanding the programming languages concepts.
 * After about a few weeks, I got accepted from another program MEXT | Bil-İşim Talent Program in December 2022.  
   This program was designed by MESS - a union of 250 companies in Turkey - 
-  The aim is to find the talented people who want to start a tech career and match them with the companies who need software developer.
-  I finished the program and passed the final exam in 30 December 2022. I am waiting for MEXT to match me and a proper company for my skills.
+  The aim is to find the talented people who want to start a tech career and match them with the companies who need software developers.
+  I finished the program and passed the final exam in 30 December 2022. I am waiting for MEXT to match me with a proper company.
 
 
 ### Experiences
