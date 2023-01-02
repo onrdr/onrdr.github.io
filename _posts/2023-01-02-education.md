@@ -6,7 +6,7 @@ categories: Bachelor and Master
 tags: [Boun, Education, Bachelor, Master]
 ---
 
-## University Education
+## University Education 
 
 * Bachelor of Science in Teaching Physics.
 * Master of Science in Teaching Physics 
