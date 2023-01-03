@@ -9,7 +9,7 @@ tags: [MEXT, BT Academy, Cisco]
 ## Certificates and Bootcamps 
 
 * MEXT Bil-İşim Full Stack Web Developer Bootcamp Program Certificate
-  * The program will finished in next week and I will be able to upload the certificate in near future.
+  * The program will end next week and I will be able to upload the certificate in near future.
   
 --------------------------------------------------------------------------------------------------------------------
 * BT Academy Bootcamp : Microsoft Certified Solution Dev.-MCSD / AZ 204 Program Certificate
