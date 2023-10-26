@@ -11,5 +11,3 @@ tags: [Bogazici, Bachelor, Master]
 * Bachelor of Science in Teaching Physics.
 * Master of Science in Teaching Physics 
 
-
-![diploma](/assets/images/diploma.jpg)
