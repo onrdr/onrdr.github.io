@@ -8,10 +8,15 @@ tags: [MEXT, BT Academy, Cisco]
 
 ## Certificates and Bootcamps 
 
+* Foundational C# with Microsoft
+
+![diploma](/assets/images/Untitled.png)
+
+--------------------------------------------------------------------------------------------------------------------
+
 * Bogazici Univeersity Full Stack Web Developer Bootcamp Program Certificate
 
 ![diploma](/assets/images/2.yeterlilik.jpg)
-
 
 --------------------------------------------------------------------------------------------------------------------
 * MEXT Bil-İşim Full Stack Web Developer Bootcamp Program Certificate
